@@ -1,0 +1,9 @@
+name: Chat
+version: '${version}'
+main: com.rydhar.chat.Chat
+api-version: 1.19
+depend: [ LuckPerms ]
+authors: [ KarmaLover ]
+description: Simple chat plugin for Rydhar
+website: https://karmalover.ca
+load: POSTWORLD
